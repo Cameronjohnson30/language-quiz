@@ -23,12 +23,12 @@ img {
 }
 
 #formOne {
-  background-color: rgb(8, 83, 46);
+  background-color: rgb(92, 110, 8);
 }
 
 .btn {
   cursor: pointer;
-  color: #fa2d83;
+  color: #200a13;
 }
 
 .btn:hover {
@@ -46,6 +46,6 @@ img {
 
 .top {
   font-size: 80px;
-  color: rgb(4, 27, 51);
-  background-color: forestgreen;
+  color: rgb(7, 21, 36);
+  background-color: rgb(77, 82, 77);
 }

@@ -27,7 +27,7 @@ $(document).ready(function () {
     $("#name1").fadeIn();
     $("#formOne").slideUp();
     $(".name").text(nameInput);
-    $(".name").append(" the great");
+    $(".name").append(" the Great");
     $(".name").show();
   });
 
