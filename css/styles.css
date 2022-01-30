@@ -25,3 +25,27 @@ img {
 #formOne {
   background-color: rgb(8, 83, 46);
 }
+
+.btn {
+  cursor: pointer;
+  color: #fa2d83;
+}
+
+.btn:hover {
+  text-decoration: underline;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #fa2d83;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.top {
+  font-size: 80px;
+  color: rgb(4, 27, 51);
+  background-color: forestgreen;
+}
