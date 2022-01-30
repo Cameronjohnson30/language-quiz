@@ -3,8 +3,25 @@ body {
   font-size: 30px;
 }
 
+img {
+  width: 650px;
+  height: auto;
+}
+
 #over-18,
 #under-18 {
   display: none;
   font-size: x-large;
+}
+
+#name1 {
+  display: none;
+}
+
+#quiz-showing {
+  display: none;
+}
+
+#formOne {
+  background-color: rgb(8, 83, 46);
 }
