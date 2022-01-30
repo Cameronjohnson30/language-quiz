@@ -1,0 +1,10 @@
+body {
+  background-color: gray;
+  font-size: 30px;
+}
+
+#over-18,
+#under-18 {
+  display: none;
+  font-size: x-large;
+}
