@@ -4,11 +4,11 @@
 
 ###Technologies Used
 
-**HMTL**
-**CSS**
-**JavaScript**
-**JQuery**
-**Markdown**
+1.**HMTL**
+2.**CSS**
+3.**JavaScript**
+4.**JQuery**
+5.ß**Markdown**
 
 ####Description: This website displays a quiz that results in different developer languages. It was constructed with the guidance of Epicodus.
 
@@ -19,7 +19,7 @@ Open index.HTML file
 to alter the code, open the documents in an IDE or text document
 Any changes should incorporate properly formatted commits with regular history.
 if installing on a server, portfolio and related links must be updated to index.html
-can be scene at [title](https://github.com/Cameronjohnson30/language-quiz.git)
+can be scene at https://github.com/Cameronjohnson30/language-quiz.git
 Known Bugs
 
 ######No known bugs.
