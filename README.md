@@ -1,27 +1,30 @@
-#Authored by Cameron Johnson,
+#_Language quiz_
 
-##Language quiz
+####_Authored by Cameron Johnson,_
 
-###Technologies Used
 
-|_1.**HMTL**_
-|_2.**CSS**_
-|_3.**JavaScript**_
-|_.**JQuery**_
-|_5.**Markdown**_
+##_Technologies Used_
 
-####Description: This website displays a quiz that results in different developer languages. It was constructed with the guidance of Epicodus.
+*1._**HMTL**_
+*2._**CSS**_
+*3._**JavaScript**_
+*4._**JQuery**_
+*5._**Markdown**_
 
-#####Setup/Installation Requirements
+##Description: 
 
-Clone or download the repository to your desktop.
-Open index.HTML file
-to alter the code, open the documents in an IDE or text document
-Any changes should incorporate properly formatted commits with regular history.
-if installing on a server, portfolio and related links must be updated to index.html
-can be scene at https://github.com/Cameronjohnson30/language-quiz.git
-Known Bugs
+_This website displays a quiz that results in different developer languages. It was constructed with the guidance of Epicodus._
 
-######No known bugs.
+##Setup/Installation Requirements
 
-#######License This code utilizes a GPL License. If you have any issues/find bugs. Feel free to report them to me at here or contribute a fix to the code. Thanks! Copyright (c) 2022 Cameron Johnson
+_Clone or download the repository to your desktop._
+_Open index.HTML file_
+_to alter the code, open the documents in an IDE or text document
+Any changes should incorporate properly formatted commits with regular history._
+_if installing on a server, portfolio and related links must be updated to index.html_
+_can be scene at https://github.com/Cameronjohnson30/language-quiz.git_
+
+##No known bugs.
+* _No known bugs_
+
+#######License This code utilizes a GPL License. If you have any issues/find bugs. Feel free to report them to me at here or contribute a fix to the code. Thanks! Copyright (c) _2022_ _Cameron Johnson_
