@@ -4,11 +4,11 @@
 
 ###Technologies Used
 
-1.**HMTL**
-2.**CSS**
-3.**JavaScript**
-4.**JQuery**
-5.ß**Markdown**
+|1.**HMTL**
+|2.**CSS**
+|3.**JavaScript**
+|4.**JQuery**
+|5.**Markdown**
 
 ####Description: This website displays a quiz that results in different developer languages. It was constructed with the guidance of Epicodus.
 
