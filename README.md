@@ -5,11 +5,11 @@
 
 ##_Technologies Used_
 
-*1._**HMTL**_
-*2._**CSS**_
-*3._**JavaScript**_
-*4._**JQuery**_
-*5._**Markdown**_
+*HMTL*
+*CSS*
+*JavaScript*
+*JQuery*
+*Markdown*
 
 ##Description: 
 
@@ -27,4 +27,4 @@ _can be scene at https://github.com/Cameronjohnson30/language-quiz.git_
 ##No known bugs.
 * _No known bugs_
 
-#######License This code utilizes a GPL License. If you have any issues/find bugs. Feel free to report them to me at here or contribute a fix to the code. Thanks! Copyright (c) _2022_ _Cameron Johnson_
+##License This code utilizes a GPL License. If you have any issues/find bugs. Feel free to report them to me at here or contribute a fix to the code. Thanks! Copyright (c) _2022_ _Cameron Johnson_
