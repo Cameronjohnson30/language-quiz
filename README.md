@@ -5,11 +5,11 @@
 
 ## _Technologies Used_
 
-*_HMTL_
-*_CSS_
-*_JavaScript_
-*_JQuery_
-*_Markdown_
+* _HMTL_
+* _CSS_
+* _JavaScript_
+* _JQuery_
+* _Markdown_
 
 ## Description 
 
