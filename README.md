@@ -1,15 +1,15 @@
 # _Language quiz_
 
-#### _Authored by Cameron Johnson,_
+#### Authored by _Cameron Johnson,_
 
 
 ## _Technologies Used_
 
-*HMTL*
-*CSS*
-*JavaScript*
-*JQuery*
-*Markdown*
+*_HMTL_
+*_CSS_
+*_JavaScript_
+*_JQuery_
+*_Markdown_
 
 ## Description 
 
@@ -28,4 +28,4 @@ _can be scene at https://github.com/Cameronjohnson30/language-quiz.git_
 * _No known bugs_
 
 ## License 
-* _This code utilizes a GPL License. If you have any issues/find bugs. Feel free to report them to me at here or contribute a fix to the code. Thanks!_ Copyright (c) _2022_ _Cameron Johnson_
+ _This code utilizes a GPL License. If you have any issues/find bugs. Feel free to report them to me at here or contribute a fix to the code. Thanks!_ Copyright (c) _2022_ _Cameron Johnson_
